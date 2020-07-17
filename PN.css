@@ -1,0 +1,9 @@
+.header{
+    display: grid;
+    grid-auto-flow: column;
+}
+.image{
+    height: 100px;
+    width: 100px;
+    background: pink;
+}
